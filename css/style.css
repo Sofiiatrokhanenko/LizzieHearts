@@ -1,0 +1,44 @@
+body{
+	background:#B05050;
+}
+.nav-wrapper,.page-footer{
+	background:#C20C0C;
+}
+.card-content{
+	background:#353128 
+}
+.card{
+	background:#353128
+}
+
+.one,.two{
+ font-family: 'Merriweather', serif;
+color: white
+
+}
+.three{
+font-family: 'Merriweather', serif;
+color: black; 
+font-size: 20px;
+}
+.four{
+	font-family: 'Merriweather', serif;
+color: black
+float:right; 
+}
+
+.img_333 {
+	border-radius: 20px;
+}
+.img_444 {
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.img_555{
+	border-radius: 20px;
+	width:450px; 
+	height:500px;
+}
